@@ -1,1 +1,1 @@
- 
+np.sqrt(lam_eff * zR_new / np.pi)
