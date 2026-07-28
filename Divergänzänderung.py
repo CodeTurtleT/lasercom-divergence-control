@@ -130,3 +130,4 @@ ax[4].grid(True); ax[4].legend()
 
 plt.tight_layout()
 plt.show()
+
