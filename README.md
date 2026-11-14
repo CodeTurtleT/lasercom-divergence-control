@@ -4,7 +4,7 @@
 
 *Design and Characterization of a Variable Beam Divergence System for Optical Ground Stations*
 
-**Grade: 1.5** (written thesis 1.7 · defence 1.3; German scale, 1.0 = best)
+**Grade: 1.5** (German scale, 1.0 = best)
 Primary assessor: Prof. Dr. C. Spielmann (Quantum Electronics, FSU Jena) · Supervisor: D. Heinig (Adaptive Optics, Fraunhofer IOF) · Day-to-day supervision: P. Böttner (Fraunhofer IOF)
 
 <p align="center">
