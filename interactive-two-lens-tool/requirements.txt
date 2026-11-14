@@ -1,0 +1,5 @@
+matplotlib
+ipywidgets
+aotools
+tabulate
+numpy

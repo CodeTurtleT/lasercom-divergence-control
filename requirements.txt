@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+optiland
+ipywidgets
+tabulate
+aotools
+jupyterlab
